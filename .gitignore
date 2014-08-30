@@ -1,0 +1,4 @@
+packages/
+bin/
+obj/
+Resource.designer.cs
